@@ -1,4 +1,7 @@
-# test coverage for  [shoe (v0.0.15)](https://github.com/substack/shoe)  [![npm package](https://img.shields.io/npm/v/npmtest-shoe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shoe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shoe.svg)](https://travis-ci.org/npmtest/node-npmtest-shoe)
+# npmtest-shoe
+
+#### test coverage for  [shoe (v0.0.15)](https://github.com/substack/shoe)  [![npm package](https://img.shields.io/npm/v/npmtest-shoe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shoe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shoe.svg)](https://travis-ci.org/npmtest/node-npmtest-shoe)
+
 #### streaming sockjs for node and the browser
 
 [![NPM](https://nodei.co/npm/shoe.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/shoe)
